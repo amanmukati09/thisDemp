@@ -1,3 +1,4 @@
 *.txt
 dir/
 static/dir/
+db.accdb
